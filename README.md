@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Career Assistance (Portfolio Project)
+# 🤖 Agentic AI Career Assistance
 
 ## 🌟 Project Overview
 I built and deployed an **Agentic AI Career Assistant** — a conversational AI agent that leverages my professional background, experiences, and portfolio context as its knowledge base.  
