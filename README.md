@@ -32,7 +32,7 @@ The full project (documentation and access link to the chatbot) is available her
 ---
 
 ## 📸 Screenshot
-<img width="2770" height="1442" alt="image" src="https://github.com/user-attachments/assets/9e958ea6-71b1-4a34-9217-a0534ceb06f6" />
+<img width="2461" height="1336" alt="image" src="https://github.com/user-attachments/assets/f3fcf10b-bdfe-4db6-9f65-020b03da2e52" />
 
 ---
 
