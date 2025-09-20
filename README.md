@@ -13,12 +13,13 @@ The full project (documentation and access link to the chatbot) is available her
 ---
 
 ## 🛠️ Tech Stack & Components
-- **OpenAI GPT API** — Core reasoning and Q&A engine.  
+- **OpenAI API** — Core reasoning and Q&A engine.  
 - **Cursor** — Development and workflow iteration.  
 - **UV** — Dependency management.  
 - **Gradio** — Frontend interface, deployed on Hugging Face Spaces.  
 - **PyPDF (PDFReader)** — Parsing structured context (resume/profile PDF).  
 - **Agentic AI Design** — Multi-step reasoning, tool calls, and orchestration.  
+- 🦙 Powered by **Ollama** for local, private, and efficient LLM inference.
 
 ---
 
